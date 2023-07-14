@@ -1,0 +1,1 @@
+This directory will get the processed Big Data file once all the records are successfully processed.
